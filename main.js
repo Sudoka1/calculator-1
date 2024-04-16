@@ -1,7 +1,7 @@
 import { keyInSelect, question } from "readline-sync";
 import colors from "colors";
 
-import Calculator from './solution.js';
+import Calculator from './calculator.js';
 
 const calc = new Calculator();
 
